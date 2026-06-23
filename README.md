@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Email-mayyanamir20%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE](https://www.linkedin.com/in/muhammad-ayyan-amir-03385224a/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </p>
