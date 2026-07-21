@@ -98,10 +98,7 @@ Inventory management system for the Indus Fishing Cat Project. Replaced manual t
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevAyyan&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAyyan&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+<p align="center"> <img src="https://github-stats-extended.vercel.app/api?username=DevAyyan&show_icons=true&theme=tokyonight&hide_border=true" height="165" /> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DevAyyan&layout=compact&theme=tokyonight&hide_border=true" height="165" /> </p>
 
 ---
 
