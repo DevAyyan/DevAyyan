@@ -26,7 +26,6 @@
 - 💼 Currently an **AI Hub Intern @ iTecknologi**, building full-stack tools and collaborating across teams
 - 🔭 Currently exploring System Design, RAG pipelines, and AI-powered tooling
 - 🛠️ I like working close to the metal — POSIX, shared memory, semaphores — and also at the top of the stack with Next.js, Node.js, and TypeScript
-- 🏗️ Built **iLead Portal**, a full-stack internship management system, from scratch during my internship
 - 🌱 Always learning. Always building.
 
 ---
