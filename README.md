@@ -23,9 +23,10 @@
 ## 🧠 About Me
 
 - 🎓 3rd year SE student, passionate about systems programming and scalable architecture
+- 💼 Currently an **AI Hub Intern @ iTecknologi**, building full-stack tools and collaborating across teams
 - 🔭 Currently exploring System Design, RAG pipelines, and AI-powered tooling
-- 🛠️ I like working close to the metal — POSIX, shared memory, semaphores — and also at the top of the stack with Next.js and TypeScript
-- 💼 Previously built **TrapTrack** for a wildlife conservation NGO as a Full Stack Developer (contract)
+- 🛠️ I like working close to the metal — POSIX, shared memory, semaphores — and also at the top of the stack with Next.js, Node.js, and TypeScript
+- 🏗️ Built **iLead Portal**, a full-stack internship management system, from scratch during my internship
 - 🌱 Always learning. Always building.
 
 ---
@@ -48,6 +49,8 @@
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
@@ -56,7 +59,16 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![NeonDB](https://img.shields.io/badge/NeonDB-00E599?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+**Backend & DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-CC3534?style=flat&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
 **AI / ML**
 
