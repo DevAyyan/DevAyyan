@@ -27,7 +27,7 @@
 ## 🧠 About Me
 
 - 🎓 3rd year SE student at FAST NUCES, passionate about systems programming and scalable architecture
-- 💼 Currently an **AI Lab Intern @ iTecknologi**, building full-stack platforms and infrastructure tooling
+- 💼 **Ex-AI Lab Intern @ iTecknologi**, building full-stack platforms and infrastructure tooling
 - 🔭 Currently exploring distributed systems, cluster orchestration, and RAG pipelines
 - 🛠️ I like working close to the metal — POSIX APIs, shared memory, semaphores, Go — and also at the top of the stack with Next.js, Node.js, and TypeScript
 - 🌱 Always learning. Always building.
